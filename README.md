@@ -67,9 +67,8 @@ The dashboard is designed to work smoothly across:
 
 ### Dashboard View
 
-Add your project screenshot to the `assets` folder and update the filename below if required.
 
-![Weather Dashboard](assets/weather-dashboard.png)
+![Weather Dashboard]("D:\VS code WEB DEV\Weather Dashboard\Weather dashboard.png")
 
 ---
 
