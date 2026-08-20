@@ -68,7 +68,7 @@ The dashboard is designed to work smoothly across:
 ### Dashboard View
 
 
-![Weather Dashboard]("WeatherDashboard.png")
+![Weather Dashboard](WeatherDashboard.png)
 
 ---
 
