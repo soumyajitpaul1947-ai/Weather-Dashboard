@@ -68,7 +68,7 @@ The dashboard is designed to work smoothly across:
 ### Dashboard View
 
 
-![Weather Dashboard]("D:\VS code WEB DEV\Weather Dashboard\Weather dashboard.png")
+![Weather Dashboard]("Weather dashboard.png")
 
 ---
 
